@@ -1,7 +1,10 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chelsea!
+================================================================================================================================
 
-<!--
-**Chelsea0608/Chelsea0608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer
+------------------
+
+* ✉️  You can contact me at [chelseadabre@gmail.com](mailto:chelseadabre@gmail.com)
 
 Here are some ideas to get you started:
 
