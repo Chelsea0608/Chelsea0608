@@ -9,11 +9,9 @@ Chelsea</a></h1>
 
 - 🔭 I’m currently working at <a href="https://phoenix.tech/griffyn/" target="blank">Juspay</a>
 
-- 🌱 I’m currently Working Functional Programming, Frontend Development and building cool stuff.
+- 🌱 I’m currently Working Functional on Programming, Frontend Development and building cool stuff.
 
-- 🤝 I’m available for exiting new Job opportunities.
-
-- 🌱 I’m currently learning Backend Development and System Design.
+- 🌱 I’m learning Backend Development and System Design.
 
 - 📝 I love reading medium articles.
   
