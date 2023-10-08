@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Chelsea</a></h1>
-<h3 align="center">A passionate Software Developer &#127470;&#127475</h3>
+<h3 align="center">A passionate Software Developer who can apply the theories and rules of software engineering to the design, development, restoration, maintenance, testing, and evaluation of various computer software. &#127470;&#127475</h3>
 
 
 <a target="_blank" align="center">
@@ -13,13 +13,11 @@ Chelsea</a></h1>
 
 - 🤝 I’m available for exiting new Job opportunities.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning Backend Development and System Design.
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+- 📝 I love reading medium articles.
+  
+- 📫 How to reach me **chelseadabre@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
