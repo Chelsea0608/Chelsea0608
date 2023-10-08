@@ -9,11 +9,12 @@
 
 - 📫 How to reach me **chelseadabre@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pnOhhOJ4YZENJcwbFqIVP5eUoODQi3Oi/view](https://drive.google.com/file/d/1pnOhhOJ4YZENJcwbFqIVP5eUoODQi3Oi/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pnOhhOJ4YZENJcwbFqIVP5eUoODQi3Oi/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chelseadabre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chelseadabre" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/chelsea-dabre-b9074b181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chelsea-dabre-b9074b181/" height="30" width="40" /></a>
 <a href="https://instagram.com/chelsea.dabre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chelsea.dabre" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chelsea0608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chelsea0608" height="30" width="40" /></a>
 </p>
